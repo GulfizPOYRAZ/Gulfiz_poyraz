@@ -1,0 +1,11 @@
+soru: [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+cevap :
+     7
+    / \
+   5   6          5 küçük sola, 6 büyük sağa,
+  / \    \
+ 1   8    9       1 ,5ten küçük sola,8 5 ten büyük sağa, 9 6dan büyük sağa,
+/  \
+0   3             0,1 den küçük sola, 3 ,1 den büyük sağa
+  /  \
+ 2   4            2, 3ten küçük sola, 4 , 3 ten büyük sağa yerleştirilir
